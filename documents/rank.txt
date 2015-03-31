@@ -1,0 +1,10 @@
+sample300	45
+sample14	56
+misaki14	64
+sample555	71
+misaki0305	71
+sample5555	94
+MISAKI	95
+sample999	104
+sample100	112
+koji51	118

@@ -1,0 +1,44 @@
+# Sample Directory
+#/sample/
+
+# BackUp file
+*.c~
+*.h~
+*.txt~
+\#*.c\#
+\#*.h\#
+
+
+#-----------------------------------------
+
+# OS X Directory Info file
+.DS_Store
+
+# game Executable file
+minesweeper
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+
